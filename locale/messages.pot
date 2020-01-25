@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-01-25 09:34+0900\n"
+"POT-Creation-Date: 2020-01-25 09:51+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,5 +17,9 @@ msgstr ""
 
 #: script\app.py:2
 msgid "This is sample message."
+msgstr ""
+
+#: script\app.py:4
+msgid "This is sample2 message."
 msgstr ""
 
