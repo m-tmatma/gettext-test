@@ -1,12 +1,12 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2020-01-25 09:51+0900\n"
-"PO-Revision-Date: 2020-01-25 09:39+0900\n"
+"PO-Revision-Date: 2020-01-25 10:00+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -21,6 +21,5 @@ msgid "This is sample message."
 msgstr "これはサンプルのメッセージです。"
 
 #: script\app.py:4
-#, fuzzy
 msgid "This is sample2 message."
-msgstr "これはサンプルのメッセージです。"
+msgstr "これはサンプル2のメッセージです。"
